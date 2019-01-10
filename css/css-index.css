@@ -3,17 +3,13 @@
 	background-color: #cccccc;
 	font-size: 22px;
 }
-#pfp
+#box1
 {
-	margin-left: 20px;
-	font: bold 29px monospace; 
+ 
 }
-#navbar
+#box2
 {
-	text-align: center;
-	background-color: #591527;
-	top: 0;
-  font: bold 29px monospace;
+
 }
 #navbar li
 {
